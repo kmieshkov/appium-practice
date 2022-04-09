@@ -1,4 +1,9 @@
-# appium-practice
+# About
+
+This is a practice with Appium's default .apk **ApiDemos-debug.apk**
+
+# Help
+
 Instructions of how to configure Appium project on the new machine
 
 1. Download Java, and set JAVA_HOME in environmental variables (for Windows)
