@@ -1,0 +1,7 @@
+{
+  "platformName": "Android",
+  "platformVersion": "10.0",
+  "deviceName": "Pixel_2_XL_API_30",
+  "automationName": "XCUITest",
+  "app": "/Users/kmieshkov/Projects/IdeaProjects/appium-practice/ApiDemos-debug.apk"
+}
